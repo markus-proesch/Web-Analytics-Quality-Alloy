@@ -6,4 +6,4 @@ A web analysis of Quality Alloys's website data. The objective was to analyze QA
 • How can visits to the website best be modeled? 
 • Where and how should QA advertise?
 
-The full text to the case can be found in the folder.
+
