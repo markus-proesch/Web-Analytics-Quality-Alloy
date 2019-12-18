@@ -1,6 +1,6 @@
 ------------------------
 #Assignment 2: Quality Alloys, Inc. Website Analysis
-#Team 4
+#Author: Markus Proesch
 #Date: 12/04/2019
 ------------------------
 
